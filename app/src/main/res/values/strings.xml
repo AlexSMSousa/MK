@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Mockup</string>
+
+    <!--Strings da SearchActivity-->
+    <string name="to_search">Buscar</string>
+    <string name="city">Cidade:</string>
+    <string name="state">Estado:</string>
+    <string name="search">Busca</string>
+    <string name="ex_state">Ex: São Paulo</string>
+    <string name="ex_city">Ex: Barueri</string>
+
+    <!--Strings da CityResultActivity-->
+    <string name="msg_error_serv">Não foi possível acessar o servidor</string>
+
+    <!--Strings da ScoreActivity-->
+    <string name="msg_result_score">A pontuação da cidade</string>
+    <string name="msg_result_score_is">é:</string>
+
+    <!--Strings em comum-->
+    <string name="result">Resultado</string>
+
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="corner_card_view">3dp</dimen>
+    <dimen name="elevation_card_view">1dp</dimen>
+    <dimen name="padding_linear_layout">8dp</dimen>
+    <dimen name="margin_layout">3dp</dimen>
+    <dimen name="size_text_toolbar">23sp</dimen>
+    <dimen name="size_text">20sp</dimen>
+</resources>
